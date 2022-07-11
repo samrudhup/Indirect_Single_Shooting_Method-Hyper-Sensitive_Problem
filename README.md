@@ -1,0 +1,2 @@
+# Hyper-Sensitive-Optimal-Control-Problem
+Solving hypersensitive optimal control problems is a long-standing challenge for decades in optimization engineering, mainly due to the possible nonexistence of the optimal solution to meet the required error tolerance under double-precision arithmetic and the hypersensitivity of the optimal solution with respect to the initial conditions. In this project, a common hyper-sensitive problem was solved using direct and indirect shooting methods on both single and multiple intervals.
